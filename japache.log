@@ -1,0 +1,5 @@
+2016-08-27-main--DEBUG-SimpleHttpServer:hello
+2016-08-27 main    DEBUGc    10c hello  
+2016-08-27 16:08:536 main    DEBUG    hello  
+[DEBUG] 08-27-2016 16:45:04,688 SimpleHttpServer main - hello
+[DEBUG] 2016-08-27 16:45:37,952 [main]  SimpleHttpServer main - hello
